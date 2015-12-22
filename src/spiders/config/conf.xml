@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+
+	<startSite>http://www.google.com</startSite>
+	<allowedExtensions>
+		<allowedExtension>asp</allowedExtension>
+		<allowedExtension>aspx</allowedExtension>
+		<allowedExtension>htm</allowedExtension>
+		<allowedExtension>html</allowedExtension>
+		<allowedExtension>jsp</allowedExtension>
+		<allowedExtension>php</allowedExtension>
+	</allowedExtensions>
+	<method>BREADTH_FIRST</method>
+	<maxURLToVisit>20</maxURLToVisit>
+	<maxDepth>10</maxDepth>
+	<stayInDomain>TRUE</stayInDomain>
+	<countImages>TRUE</countImages>
+	<verbose>TRUE</verbose>
+	<useConsole>TRUE</useConsole>
+	<summarizeCrawling>TRUE</summarizeCrawling>
+	<showInvalidDomains>FALSE</showInvalidDomains>
+	<showInvalidURL>FALSE</showInvalidURL>
+	<showVisitedURL>FALSE</showVisitedURL>
+	<showSkippedURL>FALSE</showSkippedURL>
+	<showSkippedForDepthURL>FALSE</showSkippedForDepthURL>
+	<showEncodingProblems>FALSE</showEncodingProblems>
+	<showIllegalArguments>FALSE</showIllegalArguments>
+		
+</parameters>
+		

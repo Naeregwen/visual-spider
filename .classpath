@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="COMMONS_CODEC-1.6"/>
+	<classpathentry kind="var" path="COMMONS_LOGGING-1.1.1" sourcepath="/COMMONS_LOGGING_SRC">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program Files/Java/httpClient/commons-logging-1.1/docs/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="HTTPCLIENT-4.2.1"/>
+	<classpathentry kind="var" path="HTMLPARSER-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
